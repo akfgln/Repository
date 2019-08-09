@@ -1,0 +1,6 @@
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Core\bin\Debug\netcoreapp2.1\DynamicConfiguration.Core.deps.json
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Core\bin\Debug\netcoreapp2.1\DynamicConfiguration.Core.dll
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Core\obj\Debug\netcoreapp2.1\DynamicConfiguration.Core.csprojAssemblyReference.cache
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Core\obj\Debug\netcoreapp2.1\DynamicConfiguration.Core.csproj.CoreCompileInputs.cache
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Core\obj\Debug\netcoreapp2.1\DynamicConfiguration.Core.AssemblyInfoInputs.cache
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Core\obj\Debug\netcoreapp2.1\DynamicConfiguration.Core.AssemblyInfo.cs

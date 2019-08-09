@@ -1,0 +1,3 @@
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web\obj\Debug\netcoreapp2.1\DynamicConfiguration.Web.csproj.CoreCompileInputs.cache
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web\obj\Debug\netcoreapp2.1\DynamicConfiguration.Web.AssemblyInfoInputs.cache
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web\obj\Debug\netcoreapp2.1\DynamicConfiguration.Web.AssemblyInfo.cs

@@ -1,0 +1,7 @@
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web.Framework\bin\Debug\netcoreapp2.1\DynamicConfiguration.Core.dll
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web.Framework\bin\Debug\netcoreapp2.1\DynamicConfiguration.Data.dll
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web.Framework\bin\Debug\netcoreapp2.1\DynamicConfiguration.Services.dll
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web.Framework\obj\Debug\netcoreapp2.1\DynamicConfiguration.Web.Framework.csproj.CoreCompileInputs.cache
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web.Framework\obj\Debug\netcoreapp2.1\DynamicConfiguration.Web.Framework.AssemblyInfoInputs.cache
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web.Framework\obj\Debug\netcoreapp2.1\DynamicConfiguration.Web.Framework.AssemblyInfo.cs
+C:\Users\pdemirtas\Desktop\Deneme\DynamicConfiguration\DynamicConfiguration.Web.Framework\obj\Debug\netcoreapp2.1\DynamicConfiguration.Web.Framework.csprojAssemblyReference.cache
